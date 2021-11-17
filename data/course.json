@@ -1,0 +1,40 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Creative Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b5033236-cf8b-3447-6db3-284875508280"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Science Writing in Contemporary Society",
+  "course_description": "This class addresses the craft of writing about science in and for contemporary society, both its pleasures and its challenges. We will read essays, reportage, op-eds, and web-based articles on a variety of topics concerning science, technology, medicine and nature. Readings by contemporary writers such as Elizabeth Kolbert, Atul Gawande, and Michael Pollan will serve as examples of the craft and sources of ideas for our own writing.\n",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.777",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
